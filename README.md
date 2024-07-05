@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thelarue
-- 👀 I’m interested in Avrae, the D&D 5e Discord Bot.
-- 🌱 I’m currently learning Python and Draconic.
+- 👀 I’m interested in Godot 4.
+- 🌱 I’m currently learning GDScript, and someday C#.
 - 💞️ I’m looking to collaborate on you know, whatever.
 - 📫 How to reach me --> Discord Ru#9223
 
